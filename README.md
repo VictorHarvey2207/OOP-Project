@@ -12,4 +12,4 @@ This is a mini-project in Object-oriented Programming course of SoICT - HUST
 | Nguyen Vu Thuy  | 20235562   | Thuy.NV235562@sis.hust.edu.vn |
 
 # UML Diagram
-![UML Diagram](./Class Diagram1.png)
+![UML Diagram](./ClassDiagram1.png)
